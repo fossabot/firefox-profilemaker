@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSquirrel1489%2Ffirefox-profilemaker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSquirrel1489%2Ffirefox-profilemaker?ref=badge_shield)
+
 For the functions installing addons, you need to create a folder "extensions" from where you run the django project and place there the XPIs.
 The Extension needs to have the name of its install.rdf / manifest.json file.
 
@@ -22,3 +24,7 @@ Things, that will not be included:
 
 You're welcome to create an own [profile](profiles/) for such settings or fork the whole project.
 For that, you can check the [installation](INSTALL.md) procedure.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSquirrel1489%2Ffirefox-profilemaker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSquirrel1489%2Ffirefox-profilemaker?ref=badge_large)
